@@ -1,0 +1,24 @@
+table{
+    width: 120;
+     }
+ table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+ }
+ .line{
+    width: 50%;
+    
+ }
+ .rita{
+  display: flex;
+  justify-content:space-between;  
+ }
+ .input{
+    width:20%;
+ }
+ .dotted{
+    border-bottom: 1px dotted black;
+    width: 80%;
+    height: 20px;
+    margin-top: 20px;
+ }
